@@ -1,37 +1,24 @@
 ## Sound Design
 
-### Stephen Murphy
+### Is ...
 
-- Head of Sound, AFTRS |
-- Also: President, ASSG |
+- Industrial |
+- Work |
+- Functional |
 
 Note:
 
-Brief intro to ASSG
+Sound design is many things:
+- Industrial (roles, titles etc)
+- Work (workflow, practice)
+- Functional (functions and theory of sound/design)
 
-
-Those are my two professional identities - educator, film sound worker
 
 *Overall*
 Three points:
 Sound Design/Sound Designers - who/overview
 Workflow - what we do in detail
 Theory - the why/functions of sound
-
----
-
-### But
-
-What do I (as a sound designer) really do?
-
-Note:
-
-But, what do I do? What, especially, does a sound designer do?
-
-Sound design is many things:
-- Industrial (roles, titles etc)
-- Work (workflow, practice)
-- Functional (functions and theory of sound/design)
 
 ---
 
@@ -292,7 +279,3 @@ https://www.youtube.com/watch?v=GBrl96hyChc
 http://filmsound.org  
 
 http://designingsound.org
-
----
-
-Questions?
